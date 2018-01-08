@@ -11,27 +11,45 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-08T22:42:49.1008600+09:00
-  lastVerifiedAtString: 2018-01-08T22:42:49.1008600+09:00
-  initializedAtString: 2018-01-08T22:42:49.0642320+09:00
+  lastUpdatedAtString: 2018-01-08T22:55:03.5701460+09:00
+  lastVerifiedAtString: 2018-01-08T22:55:03.5746460+09:00
+  initializedAtString: 2018-01-08T22:55:03.5452940+09:00
   gitConfigBranch:
     name: master
     remote:
       name: 
       url: 
   gitConfigRemote:
-    name: 
-    url: 
-  localBranches: []
+    name: origin
+    url: https://github.com/finedays74/unity_test.git
+  localBranches:
+  - name: master
+    tracking: '[None]'
+    isActive: 1
   remoteBranches: []
-  remotes: []
+  remotes:
+  - name: origin
+    url: https://github.com/finedays74/unity_test.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
   remoteConfigBranches:
     keys: []
     subKeys: []
     subKeyValues: []
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/finedays74/unity_test.git
